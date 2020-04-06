@@ -37,7 +37,7 @@ def monopoly_with_third_tier
        
      }
      
-     monopoly_with_third_tier= :railroads[:names] = {:reading_railroad => {}, :pennsylvania_railroad => {}, :name3 => "3",:name4 => "4"}
+     monopoly_with_third_tier= {:railroads[:names] = {:reading_railroad => {}, :pennsylvania_railroad => {}, :name3 => "3",:name4 => "4"}}
      
      
    }
